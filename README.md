@@ -7,7 +7,8 @@ There is an endless supply of questions, and an even longer list of potential so
 
 <p align="center">
 
-<img src="https://lh3.googleusercontent.com/ZAbn78YScsa753HuKwVxqIREOfF-fDFFLVQaoInf65txbiG_SW1jZB_u7_iE6i4ozNPNJQ=s127" alt="cat"  />
+<!-- <img src="https://lh3.googleusercontent.com/ZAbn78YScsa753HuKwVxqIREOfF-fDFFLVQaoInf65txbiG_SW1jZB_u7_iE6i4ozNPNJQ=s127" alt="cat"  /> -->
+![](https://thumbs.gfycat.com/ChubbySelfreliantGarpike-max-1mb.gif)
 
 </p>
 
