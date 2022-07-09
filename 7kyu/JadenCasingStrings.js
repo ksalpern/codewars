@@ -9,12 +9,12 @@
 
 String.prototype.toJadenCase = function () {
   let returnString = [];
-  let words = this.toLocaleLowerCase().split(' ');
+  let words = this.toLocaleLowerCase().split(' ');//splits the input string into individual words
   for (let i = 0; i < words.length; i++) {
    let word = words[i];
-    returnString.push(word[0].toUpperCase() + word.slice(1));
+    returnString.push(word[0].toUpperCase() + word.slice(1));// each word, treated as an array, has the element at index ‘0’ capitalized, and then the rest of the word added starting from index ‘1’, is pushed into array
   }
-  return returnString.join(' '); // each word, treated as an array, has the element at index ‘0’ capitalized, and then the rest of the word added starting from index ‘1’, is pushed into array
+  return returnString.join(' '); //returns the array as a string joined with a space
 };
 
 //Alt:
