@@ -18,10 +18,10 @@ There is an endless supply of questions, and an even longer list of potential so
   <a href="https://www.codewars.com/users/ksalpern" rel="nofollow"><img src="https://www.codewars.com/users/ksalpern/badges/large" style="max-width: 100%;"></a>
 </p>  
 
-Rank - 5 kyu 🎉 <br>
-Honor Percentile - Top 14.197% 🎉 <br>
-Honor - 570 <br>
-Total Completed Kata - 132
+Rank - 4 kyu 🎉 <br>
+Honor Percentile - Top 10.104% 🎉 <br>
+Honor - 691 <br>
+Total Completed Kata - 150
 <br>
 
 
