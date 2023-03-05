@@ -19,14 +19,14 @@ There is an endless supply of questions, and an even longer list of potential so
 </p>  
 
 Rank - 4 kyu 🎉 <br>
-Honor Percentile - Top 6.714% 🎉 <br>
-Honor - 853 <br>
-Total Completed Kata - 208
+Honor Percentile - Top 6.338% 🎉 <br>
+Honor - 877 <br>
+Total Completed Kata - 217
 <br>
 
 
 ## 📞 Contact
-Ksenia Pi - [@ksalpern](https://instagram.com/ksalpern) - ksenia.pidopryhora@gmail.com
+Kseniia Pidopryhora - [@ksalpern](https://instagram.com/ksalpern) - ksenia.pidopryhora@gmail.com
 
 
 ## 📌 Disclaimer
