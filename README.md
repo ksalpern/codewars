@@ -1,7 +1,7 @@
 # 🚀 Codewars Challenge
 Hey my friends! This repository is where I will save my coding challenge solutions from codewars.com. <br>
 
-I started learning programming on February 2022. Here I wanna save my progress. I'm trying my best to become a good web developer and this challenge would be a nice push to impove my knowledge. <br>
+Here I wanna save my progress. I'm trying my best to become a good web developer and this challenge would be a nice push to impove my knowledge. <br>
 
 There is an endless supply of questions, and an even longer list of potential solutions to each question. I have a long way to go but I plan to take the initiative to consistently improve and learn from each challenge I complete (or don't complete).<br>
 
